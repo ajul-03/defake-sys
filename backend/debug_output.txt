@@ -1,0 +1,6 @@
+ROOT_DIR: C:\Users\Ajul\Desktop\defake project
+FAKE_VIDEOS_DIR_1: C:\Users\Ajul\Desktop\defake project\Deepfakes
+Fake videos directory EXISTS.
+Total files in directory: 1000
+Running glob...
+Glob found 1000 .mp4 files.

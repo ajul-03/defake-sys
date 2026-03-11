@@ -1,0 +1,11 @@
+
+opencv-python-headless
+mtcnn
+flask
+flask-cors
+numpy
+pandas
+pillow
+werkzeug
+scikit-learn
+matplotlib

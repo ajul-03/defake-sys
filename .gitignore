@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+venv_gpu/
+backend/venv/
+backend/venv_gpu/
+
+# Node
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.swn
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# App runtime / data
+uploads/
+backend/uploads/
+
+# Local databases / office temp files
+*.db
+~$*.pptx
+
+# Large ML artifacts / datasets (keep out of git; use releases or Git LFS)
+*.h5
+*.npy
+*.mp4
+Deepfakes/
+original/
+backend/dataset_processed/
+
+# Secrets
+.env
+.env.*
